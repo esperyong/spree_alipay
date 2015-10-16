@@ -63,3 +63,4 @@ Reference
 http://club.alipay.com/read.php?tid=8681712&fid=703#url_6
 
 https://github.com/Shopify/active_merchant/wiki/Contributing
+
